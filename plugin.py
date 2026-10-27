@@ -1,5 +1,5 @@
 """
-<plugin key="ZLinkyP1" name="ZLinky P1 Smart Meter" author="Community" version="1.0.2">
+<plugin key="ZLinkyP1" name="ZLinky P1 Smart Meter" author="Morvan LEPANNETIER" version="1.0.2">
     <description>
         ZLinky standard-mode MQTT bridge to a Domoticz P1 Smart Meter.
     </description>
